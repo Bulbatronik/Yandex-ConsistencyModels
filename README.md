@@ -35,7 +35,7 @@ This repository contains the final project of submitted during the participation
    - Generate high-quality images in as few as 4 steps.
    - Support for CFG during sampling.
 
-## Notebook Structure
+## Notebook Structure ([Colab Version](https://colab.research.google.com/drive/1XjwVbfIT9WxtLEyNwsDHptqImjO4b3Ex#scrollTo=c18dffaf))
 
 1. **Introduction**:
    - Overview of diffusion models and consistency models.
